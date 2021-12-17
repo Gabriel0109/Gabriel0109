@@ -1,4 +1,4 @@
-## Hi guys, i'm Gabriel Fortes!
+## Hi guys, i'm Gabriel Guimarães!
 
 ### Connect with me:
 
