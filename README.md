@@ -17,7 +17,7 @@
 <br />
 <br />
 
-![gabriel0109 GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel0109&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![gabriel0109 GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel0109&count_private=true&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel0109&theme=dark&show_icons=true&layout=compact)](https://github.com/Gabriel0109/github-readme-stats)
 
